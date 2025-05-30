@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+
+**pycache**/
+\*.py\[cod]
+\*\$py.class
+
+# Flask-related
+
+instance/
+.webassets-cache
+\*.log
+
+# Environment variables / virtualenv
+
+.env
+.venv/
+venv/
+env/
+bin/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# VS Code settings
+
+.vscode/
+
+# OS generated files
+
+.DS\_Store
+Thumbs.db
+
+# Python packaging
+
+\*.egg
+\*.egg-info/
+dist/
+build/
+.eggs/
+
+# Test output
+
+htmlcov/
+.tox/
+.coverage
+coverage.xml
+
+# MyPy / Pyre / Pytype
+
+.mypy\_cache/
+.pyre/
+.pytype/

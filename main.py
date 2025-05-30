@@ -44,7 +44,6 @@ def toggle_prioridade():
         desc = tarefa.desc
         concluido = tarefa.concluido
 
-        # Troca o tipo de tarefa
         if isinstance(tarefa, TarefaImportante):
             nova_tarefa = Tarefa(titulo, desc, concluido)
         else:

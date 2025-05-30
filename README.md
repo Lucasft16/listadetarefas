@@ -38,14 +38,6 @@ http://127.0.0.1:5000/
 - pip
 - Navegador moderno
 
-## 🔄 Paradigmas OO Aplicados
-
-- **Herança**: `TarefaImportante` herda de `Tarefa`
-- **Polimorfismo**: Sobrescrita do método `exibir()`
-- **Encapsulamento**: Atributos e métodos definidos conforme boas práticas
-- **Composição forte**: `Projeto` contém tarefas diretamente
-- **Associação fraca**: `ProjetoDB` interage com `Projeto` para persistência
-
 ## 🧾 Casos de Uso
 
 **Caso de Uso 1: Adicionar Tarefa**

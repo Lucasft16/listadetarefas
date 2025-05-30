@@ -1,11 +1,4 @@
 {
     "titulo": "Lista de Tarefas",
-    "tarefas": [
-        {
-            "titulo": "sdasdas",
-            "desc": "dsadsadsa",
-            "concluido": false,
-            "importante": false
-        }
-    ]
+    "tarefas": []
 }
